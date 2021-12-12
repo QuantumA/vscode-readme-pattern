@@ -13,6 +13,7 @@
 ## Features
 
 - Includes 4 readme templates: Bot, Hackathon, Minimal, Standard, based on [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+- Includes 1 readme template for Go CLI Apps
 - Creates README.md with context menu
 - Supports package.json and composer.json
 - Creates project name by reading config
